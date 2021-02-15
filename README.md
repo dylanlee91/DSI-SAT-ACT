@@ -1,6 +1,5 @@
-![alt text](https://github.com/dylanlee91/DSI-Ames-Housing/blob/ga_logo.png?raw=true)
-# General Assembly Data Science Immersive Project 1: 
-### SAT & ACT Analysis & Policy Recommendations to College Board for 2017/2018
+![alt text](https://github.com/dylanlee91/DSI-Ames-Housing/blob/main/ga_logo.png?raw=true)
+# General Assembly Data Science Immersive Project 1: SAT & ACT Analysis & Policy Recommendations to College Board for 2017/2018
 ## Introduction: How can College Board increase SAT participation rates?
 The SAT is a standardised university admissions test administed by College board that competes with the ACT, another standardised test. Many states in the USA make testing mandatory for one of the two tests, while others do not and leave it up to their students to elect to take one or both.
 
